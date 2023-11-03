@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
   text-align: left;
   font-family: "Courier";
   color: #333;
@@ -10,7 +9,6 @@ body {
   width: 70%;
   padding: 1em;
   text-align: left;
-=======
   text-align: left;
   font-family: "Arial";
   color: #333;
@@ -37,7 +35,6 @@ body {
   width: 70%;
   padding: 0;
   text-align: left;
->>>>>>> cabecera
   border: 1px solid #ddd;
   margin: 0 auto;
 }
@@ -45,10 +42,7 @@ body {
 #container h1 {
   font-size: 20px;
 }
-<<<<<<< HEAD
-=======
 
 #post {
   padding: 1em;
 }
->>>>>>> cabecera
