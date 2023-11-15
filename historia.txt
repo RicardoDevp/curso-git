@@ -4,3 +4,4 @@ Mañana nos enfocaremos en su vida laboral
 
 Primer cambio luego de haber subido a Github para probar el gitPush
 
+Segundo cambio para hacer commit y verificar si luego da refused to diferent histories
